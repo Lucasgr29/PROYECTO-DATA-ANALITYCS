@@ -3,7 +3,7 @@
 ### _"ENFERMEDADES CARDIACAS"_ :man_health_worker:
 
 
-En esta entrega podra observar un dataset con los siguientes clasificadores:
+En esta entrega sera posible observar un dataset con los siguientes clasificadores:
 - Random Forest
 - KNN
 - Logistic Regression
